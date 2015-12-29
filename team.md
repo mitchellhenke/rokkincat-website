@@ -40,4 +40,12 @@ to better understand the technology options availble to RokkinCat's clients. You
 find him on [GitHub](https://github.com/nickgartmann), [Twitter](https://twitter.com/nickgartmann),
 and [LinkedIn](https://www.linkedin.com/in/nickgartmann)
 
+## Greg Billetdeaux - Android Development
+![Greg Billetdeaux](headshots/greg-billetdeaux.jpg)
+
+Greg is in charge of all of RokkinCat's Android app development. Greg has been doing
+Android development since the very earliest releases of Android and developed one of
+the most popular [sidebar navigation libraries](https://github.com/Gregadeaux/android-fly-in-app-navigation) for Android 
+while he was still in school. He is also a coach of First Robitics team 930. Learn 
+more about him on [GitHub](https://github.com/gregadeaux) and [Twitter](https://twitter.com/gregadeaux).
 
