@@ -19,4 +19,14 @@ MVVM framework. In addition to his development prowess, Rick has been at the hel
 of both of RokkinCat's entrepreneurial efforts: Tappr and [Comet](https://www.comet.ai). 
 Find him on [GitHub](https://github.com/stoodder) and [Twitter](https://twitter.com/stoodder).
 
+## Jason Stiebs - Partner, API Development
+![Jason Stiebs](headshots/jason-stiebs.jpg)
+
+Jason is one of the founding partners of RokkinCat. All API development and server 
+application projects go through him. As a core contributor of the 
+[Phoenix Web Framework](https://www.phoenixframework.com) and the
+creator of the [Elixir](https://elixir-lang.org) implementation of [JSONAPI](http://jsonapi.org),
+he has a lot of practice making sure applications built by RokkinCat are fast
+and reliable. Talk to him on [GitHub](https://github.com/jeregrine) and 
+[Twitter](https://twitter.com/peregrine) or any of the _many_ IRC channels he hangs out in.
 
