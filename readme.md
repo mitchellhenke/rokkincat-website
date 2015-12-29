@@ -1,6 +1,7 @@
 # RokkinCat
 
 * [Services](services.md)
+* [Case Studies](case-studies.md)
 * [Team](team.md)
 * [About](about.md)
 
