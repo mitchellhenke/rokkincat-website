@@ -49,3 +49,10 @@ the most popular [sidebar navigation libraries](https://github.com/Gregadeaux/an
 while he was still in school. He is also a coach of First Robitics team 930. Learn 
 more about him on [GitHub](https://github.com/gregadeaux) and [Twitter](https://twitter.com/gregadeaux).
 
+## Alex Solo - Full Stack Development
+![Alex Solo](headshots/alex-solo.jpg)
+
+Alex is in charge of RokkinCat's Seattle branch, and a full stack force to be reckoned with.
+He has worked extensively on hybrid mobile applications and web applications for us and we have never seen so much quality code happen so quickly. 
+Check out his [GitHub](https://github.com/civilframe) for a fantastic selection of applications he has built, pay special attention to the ones using [MeteorJS](https://www.meteor.com/). 
+Ask him how he does it on [Twitter](https://twitter.com/civilframe).
