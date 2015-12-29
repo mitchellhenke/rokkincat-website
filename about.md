@@ -11,4 +11,11 @@ By working with early stage startups, we honed our business skills; helping foun
 we worked with define their minimum viable product and then executing the development 
 on that product. By building our own business, and constantly starting up new ones, we 
 immerse ourselves in the kinds of business problems our clients are dealing with so 
-we know first hand if and how technology can help solve them. 
+we know first hand if and how technology can help solve them. We haven't hired any
+growth hackers, or business development experts, or account managers, because we believe
+that in order to get the product right, our engineers have to understand why the product
+is being built.
+
+Read our [blog series](http://www.rokkincat.com) on how we run our business to understand why 
+[we only hire engineers](http://www.rokkincat.com), why [our books are fully open to our employees](http://www.rokkincat.com),
+and why [our employees pick their own salaries](http://www.rokkincat.com).

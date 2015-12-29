@@ -2,6 +2,7 @@
 
 * [Services](services.md)
 * [Team](team.md)
+* [About](about.md)
 
 ### Engineering for businesses, bringing digital products to market.
 [Tell us what you're building](services.md)
