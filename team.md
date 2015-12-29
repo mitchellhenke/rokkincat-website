@@ -64,3 +64,19 @@ Alex is in charge of RokkinCat's Seattle branch, and a full stack force to be re
 He has worked extensively on hybrid mobile applications and web applications for us and we have never seen so much quality code happen so quickly. 
 Check out his [GitHub](https://github.com/civilframe) for a fantastic selection of applications he has built, pay special attention to the ones using [MeteorJS](https://www.meteor.com/). 
 Ask him how he does it on [Twitter](https://twitter.com/civilframe).
+
+## Jake Robers - Engineering Intern
+![Jake Robers](headshots/jake-robers.jpg)
+
+Jake is a junior software engineer at the Milwaukee School of Engineering, and has been an intern at RokkinCat for 1 year. 
+He has a great eye for product development, and has been focusing his study around AngularJS, Elixir, and machine learning.
+Jake has also taken a great interest in developer-focused UX, follow him on [Twitter](https://twitter.com/jake_robers) to hear him complain about bad frameworks, and check out his [GitHub](https://github.com/jakerobers) to hear him show how to fix it.
+
+## Lyzzi Brooks - Engineering Intern
+![Lyzzi Brooks](headshots/lyzzi-brooks.jpg)
+
+Lyzzi is a senior software engineer at the Milwaukee School of Engineering, and the newest employee at RokkinCat.
+She is our resident video game designer and developer and has built many games using the Unity framework. 
+As the head of the MSOE Video Game Development Group, she has worked on teams to build a bunch of games (which you can find on her [GitHub](https://github.com/brookse)).
+She does NodeJS and iOS development in addition to her more fun capabilities. 
+Head to [Twitter](https://twitter.com/lyzzi_lightyear) to read her thoughts on programming, gaming, knitting, music, and the internet in general.
