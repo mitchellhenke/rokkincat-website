@@ -30,3 +30,14 @@ he has a lot of practice making sure applications built by RokkinCat are fast
 and reliable. Talk to him on [GitHub](https://github.com/jeregrine) and 
 [Twitter](https://twitter.com/peregrine) or any of the _many_ IRC channels he hangs out in.
 
+## Nick Gartmann - Partner, Sales, Development
+![Nick Gartmann](headshots/nick-gartmann.jpg)
+
+Nick is one of the founding partners of RokkinCat. He helps perspective clients
+understand what the true technology needs are so they spend money on the _right_
+stuff. He also builds applications in as many technologies as possible so as
+to better understand the technology options availble to RokkinCat's clients. You can
+find him on [GitHub](https://github.com/nickgartmann), [Twitter](https://twitter.com/nickgartmann),
+and [LinkedIn](https://www.linkedin.com/in/nickgartmann)
+
+
