@@ -13,4 +13,17 @@
 * Would you prefer to use an NDA?
   - [ ] Yes
   - [X] No
-
+* What type of services to you expect to need? (Check all that apply)
+  - [ ] Product Development
+  - [ ] CTO
+  - [ ] Elixir/Phoenix
+  - [ ] Mobile Build Automation
+  - [ ] Event Planning
+  - [ ] Product Salvage
+  - [ ] Other (Please describe)
+* What is your ideal completion date? (datepicker)
+  - [ ] Q1 2016
+  - [ ] Q2 2016
+  - [ ] Q3 2016
+  - [ ] Q4 2016
+* Do you have any important deadlines coming up (e.g. investor meetings, launch parties, etc)? (textarea)
