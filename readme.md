@@ -4,6 +4,8 @@
 * [Case Studies](case-studies.md)
 * [Team](team.md)
 * [About](about.md)
+* [Blog](http://blog.rokkincat.com/)
+* [Contact Us](contact.md)
 
 ### Engineering for businesses, bringing software products to market.
 [Tell us what you're building](services.md)
