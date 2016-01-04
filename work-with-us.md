@@ -4,6 +4,11 @@
   - [ ] Email addreess
   - [ ] Phone number
 * Tell us a bit about your project (textarea)
+* If you are a startup:
+  * What value does your product provide to its customer?
+  * Who are your customers?
+  * How do your customers interact with your business?
+  - [ ] Have you talked to customers yet?
 * What is your budget?
   - [ ] $0 - $10,000
   - [ ] $10,000 - $30,0000
