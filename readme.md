@@ -10,7 +10,6 @@
 ### Engineering for businesses, we bring software products to market.
 [Tell us what you're building](work-with-us.md)
 
-#### Draft:
 RokkinCat is a small business, we know what you're going through. 
 Let us help you build your product, we'll take care of the technology.
 
