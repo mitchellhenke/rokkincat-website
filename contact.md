@@ -1,4 +1,4 @@
-If you would like to work with us, please [go here](#work-with-us.md).
+If you would like to work with us, please [go here](work-with-us.md).
 
 229 E Wisconsin Ave
 Suite #1200
