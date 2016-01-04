@@ -1,6 +1,6 @@
-We believe that in order to get the product right, our engineers need to understand
+**We believe that in order to get the product right, our engineers need to understand
 why the product is being built the way it is. That is why we only hire
-engineers.
+engineers.**
 
 RokkinCat started after the original partners shuttered our first attempt at a tech startup.
 We were accepted into the 94Labs business incubator (this has since turned into [Gener8tor](http://www.gener8tor.com)).
