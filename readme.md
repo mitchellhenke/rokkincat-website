@@ -30,4 +30,4 @@ build software](about.md). Let us help you build your product, we'll take care o
   - [ ] Product Building
   - [ ] Salvage
   - [ ] Mobile build automation
-- [ ] Onboarding Survey
+- [x] Onboarding Survey
