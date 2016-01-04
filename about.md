@@ -12,7 +12,7 @@ experience to be effective technology partners.
 
 By working with early stage startups, we honed our business skills; helping founders
 we worked with define their minimum viable product and then executing the development 
-on that product. By building our own business, and constantly starting up new ones, we 
+on that product. By building our own business &mdash; and constantly starting up new ones &mdash; we 
 immerse ourselves in the kinds of business problems our clients are dealing with so 
 we know first hand if and how technology can help solve them. We haven't hired any
 growth hackers, or business development experts, or account managers, because we believe
