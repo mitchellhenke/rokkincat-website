@@ -7,8 +7,8 @@
 * [Blog](http://blog.rokkincat.com/)
 * [Contact Us](contact.md)
 
-### Engineering for businesses, bringing software products to market.
-[Tell us what you're building](services.md)
+### Engineering for businesses, we bring software products to market.
+[Tell us what you're building](work-with-us.md)
 
 #### Draft:
 RokkinCat is a small business, we know what you're going through. 
