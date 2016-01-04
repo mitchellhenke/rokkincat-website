@@ -18,12 +18,12 @@ Let us help you build your product, we'll take care of the technology.
 
 ### TODO:
 
-- [ ] Case studies
+- [x] Case studies
   - [ ] Mobicratic
   - [ ] Rex
   - [ ] Comet
   - [ ] B\E Aerospace
-- [ ] Services
+- [x] Services
   - [ ] Elixir / Phoenix
   - [ ] Event Planning
   - [ ] Consulting
