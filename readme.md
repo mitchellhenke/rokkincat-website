@@ -11,7 +11,8 @@
 [Tell us what you're building](work-with-us.md)
 
 RokkinCat is a small business, we know what you're going through. 
-Let us help you build your product, we'll take care of the technology.
+[We believe our engineers need to understand business to effectively
+build software](about.md). Let us help you build your product, we'll take care of the technology.
 
 [Learn about how we do it](process.md)
 
