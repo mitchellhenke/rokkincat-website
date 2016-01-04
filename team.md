@@ -55,7 +55,7 @@ more about him on [GitHub](https://github.com/gregadeaux) and [Twitter](https://
 Mitch is one of RokkinCat's most methodical engineers.
 He works on the servers of our largest applications, making sure they are fast and resiliant, and that they will stay that way no matter how many users get thrown at them.
 If you check out his [GitHub](https://github.com/mitchellhenke) you'll see a long list of repos that he has forked and fixed.
-Ask him about [Elastic search](https://www.elastic.co) on [Twitter](https://twitter.com/mitchellhenke).
+Ask him about [Elasticsearch](https://www.elastic.co) on [Twitter](https://twitter.com/mitchellhenke).
 
 ## Alex Solo - Full Stack Development
 ![Alex Solo](headshots/alex-solo.jpg)
