@@ -14,4 +14,18 @@ Let us help you build your product, we'll take care of the technology.
 
 [Learn about how we do it](process.md)
 
+### TODO:
 
+- [ ] Case studies
+  - [ ] Mobicratic
+  - [ ] Rex
+  - [ ] Comet
+  - [ ] B\E Aerospace
+- [ ] Services
+  - [ ] Elixir / Phoenix
+  - [ ] Event Planning
+  - [ ] Consulting
+  - [ ] Product Building
+  - [ ] Salvage
+  - [ ] Mobile build automation
+- [ ] Onboarding Survey
