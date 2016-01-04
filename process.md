@@ -2,8 +2,8 @@
 
 RokkinCat works in a weekly iterative cycle. We make a plan for the week every
 monday and spend the week executing that plan. These weeks can be one of three
-different types of week: [research](#Research), [execution](#Execution), or
-[refinement](#Refinement). Clients recieve an invoice at the end of each week.
+different types of week: [research](#research), [execution](#execution), or
+[refinement](#refinement). Clients recieve an invoice at the end of each week.
 
 ## Research 
 
